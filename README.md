@@ -1,11 +1,11 @@
-About r-rvenn
-=============
+About r-rvenn-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rvenn-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=RVenn
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rvenn-feedstock/blob/main/LICENSE.txt)
 
 Summary: Set operations for many sets. The base functions for set operations in R can be used for only two sets. This package uses 'purr' to find the union, intersection and difference of three or more sets. This package also provides functions for pairwise set operations among several sets. Further, based on 'ggplot2' and 'ggforce', a Venn diagram can be drawn for two or three sets. For bigger data sets, a clustered heatmap showing presence/absence of the elements of the sets can be drawn based on the 'pheatmap' package. Finally, enrichment test can be applied to two sets whether an overlap is statistically significant or not.
 
